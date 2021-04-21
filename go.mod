@@ -1,4 +1,4 @@
-module github.com/k42-software/go-multierror
+module github.com/k42-software/go-multierror/v2
 
 go 1.13
 
